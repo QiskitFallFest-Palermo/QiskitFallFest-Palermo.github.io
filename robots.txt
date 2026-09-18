@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qiskitfallfest-palermo.github.io/sitemap.xml
